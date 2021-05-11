@@ -43,6 +43,15 @@ const baseConfig = {
       "env": {
         "jest": true
       },
+    },
+    {
+      "files": ["jest.config.js", "next.config.js"],
+      "env": {
+        "node": true
+      },
+      "rules": {
+        "@typescript-eslint/no-var-requires": "off"
+      }
     }
   ]
 }
