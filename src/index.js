@@ -68,6 +68,7 @@ module.exports = {
         ...baseConfig.extends,
         "plugin:jsx-a11y/recommended",
         "plugin:react/recommended",
+        "plugin:react-hooks/recommended"
       ],
       "parserOptions": {
         ...baseConfig.parserOptions,
