@@ -144,7 +144,7 @@ npm i -D husky@4
 ```
 
 ⚠️ Husky 5 licence doesn't allow use in non open-source project.
-Please use Husky 4.x!
+Please use Husky 4.x in private projects!
 
 Then add `Husky` configuration in your `package.json`:
 
