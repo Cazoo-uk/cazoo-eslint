@@ -1,6 +1,6 @@
 {
   "name": "@cazoo/eslint-plugin-eslint",
-  "version": "2.0.0-beta.0",
+  "version": "2.0.0",
   "description": "ESLint rules for Cazoo org",
   "main": "src/index.js",
   "author": "Adrien Baron <adrien.baron@cazoo.co.uk>",
@@ -11,10 +11,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:Cazoo-uk/cazoo-eslint.git"
-  },
-  "engines": {
-    "node": "~14",
-    "npm": "~6"
   },
   "bugs": {
     "url": "https://github.com/Cazoo-uk/cazoo-eslint/issues"
