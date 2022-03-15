@@ -8,6 +8,9 @@
   "files": [
     "src"
   ],
+  "scripts": {
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:Cazoo-uk/cazoo-eslint.git"
