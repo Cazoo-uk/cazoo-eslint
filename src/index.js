@@ -78,6 +78,7 @@ module.exports = {
       },
       "rules": {
         ...baseConfig.rules,
+        "no-restricted-globals": ["location"],
         "react/prop-types": "off",
       },
       "plugins": ["react", ...baseConfig.plugins],
